@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" role="img" aria-labelledby="title description">
+  <title id="title">Wallace, a steadfast Scandinavian cave troll</title>
+  <desc id="description">An ancient, powerful stone-gray guardian with a heavy mossy brow, deep-set amber eyes, a broad jaw and shoulders, and a calm closed-mouth expression, lit by a cave lantern.</desc>
+  <defs>
+    <radialGradient id="cave" cx="68%" cy="28%" r="86%"><stop stop-color="#516454"/><stop offset=".48" stop-color="#263c32"/><stop offset="1" stop-color="#14261f"/></radialGradient>
+    <linearGradient id="stone" x1="0" x2="1" y2="1"><stop stop-color="#a5ada0"/><stop offset=".55" stop-color="#858f84"/><stop offset="1" stop-color="#626e64"/></linearGradient>
+    <linearGradient id="nose" x1="0" x2=".7" y2="1"><stop stop-color="#bbc0ae"/><stop offset="1" stop-color="#859280"/></linearGradient>
+    <linearGradient id="cloak" x1="0" x2="1" y2="1"><stop stop-color="#3f5944"/><stop offset="1" stop-color="#243d32"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#ffc777" stop-opacity=".6"/><stop offset="1" stop-color="#efb45a" stop-opacity="0"/></radialGradient>
+    <clipPath id="circle"><circle cx="320" cy="320" r="312"/></clipPath>
+  </defs>
+  <g clip-path="url(#circle)">
+    <path fill="url(#cave)" d="M0 0h640v640H0z"/>
+    <path fill="#1b2e25" opacity=".6" d="m0 0 88 13 46 86-27 36-56 7-8 104L0 292zm640 0-81 14-37 75 35 31 23 136 60 28z"/>
+    <path fill="none" stroke="#6d8265" stroke-width="3" opacity=".28" d="m53 390 29-39 24 5m493-69-21 8-8 27M111 84l-14 19 7 11m438 62 26 24-4 38"/>
+    <circle cx="516" cy="214" r="147" fill="url(#glow)"/>
+    <path fill="#101f18" d="M-12 640c5-135 96-202 192-217h280c96 15 187 82 192 217z"/>
+    <path fill="url(#cloak)" d="M18 640c7-123 80-179 171-199l131 41 132-41c91 20 164 76 171 199z"/>
+    <path fill="#687a60" d="M217 415h206l20 58-122 62-124-62z"/>
+    <path fill="#435d46" d="m53 640 139-194 129 89-74 105zm534 0L448 446l-127 89 74 105z"/>
+    <path fill="#536e51" d="M117 266c-44-49-95-35-99-8-6 38 57 93 108 82zm407 0c44-49 95-35 99-8 6 38-57 93-108 82z"/>
+    <path fill="#8c9d83" d="M122 278c-32-35-67-33-72-15-6 19 32 53 69 55zm396 0c32-35 67-33 72-15 6 19-32 53-69 55z"/>
+    <path fill="url(#stone)" d="M140 222c8-115 85-161 180-161s172 46 180 161l27 112c12 68-13 112-57 144l-43 29H213l-43-29c-44-32-69-76-57-144z"/>
+    <path fill="#acb6a3" opacity=".5" d="M161 210c18-87 65-122 127-131-56 27-89 80-98 153z"/>
+    <path fill="#466247" d="M156 179c5-24 26-37 52-30 21-23 52-33 75-27 30-17 54-18 82-6 37-9 61 4 77 26 29 1 45 17 51 38-37-13-56-12-78-5-56-33-124-40-182-16-22-4-48 3-77 20z"/>
+    <path fill="#6b8057" d="M179 171c19-18 33-15 45-13 23-19 47-24 68-24-18 7-28 15-44 20-27 0-39 14-69 17z"/>
+    <path fill="#707e70" d="m143 337 23 4 33 44 26 33-51-22zm354 0-23 4-33 44-26 33 51-22z"/>
+    <path fill="#566353" d="M166 263c22-42 75-54 122-25l-8 40c-37-23-71-20-103 4zm308 0c-22-42-75-54-122-25l8 40c37-23 71-20 103 4z"/>
+    <path fill="#36483a" d="M170 249c32-35 72-41 118-14l-9 29c-41-16-72-15-108 3zm300 0c-32-35-72-41-118-14l9 29c41-16 72-15 108 3z"/>
+    <path fill="#607550" d="M180 246c30-22 59-23 86-11l-5 8c-29-7-49-2-82 12zm280 0c-30-22-59-23-86-11l5 8c29-7 49-2 82 12z"/>
+    <path fill="#3f493e" d="M181 289c26-25 67-26 94-8l-4 16c-35 21-62 13-90-8zm278 0c-26-25-67-26-94-8l4 16c35 21 62 13 90-8z"/>
+    <path fill="#b5baa0" d="M195 290c21-13 43-13 65-4-21 12-44 14-65 4zm250 0c-21-13-43-13-65-4 21 12 44 14 65 4z"/>
+    <ellipse cx="230" cy="289" rx="12" ry="10" fill="#bd974f"/><ellipse cx="410" cy="289" rx="12" ry="10" fill="#bd974f"/>
+    <ellipse cx="231" cy="289" rx="5" ry="8" fill="#243327"/><ellipse cx="409" cy="289" rx="5" ry="8" fill="#243327"/>
+    <circle cx="234" cy="286" r="1.5" fill="#e7c993"/><circle cx="412" cy="286" r="1.5" fill="#e7c993"/>
+    <path fill="none" stroke="#627260" stroke-width="5" stroke-linecap="round" d="m177 315 25 8m261-8-25 8m-206-121 30-7m116 7-30-7m-4-18 8 20-9 11"/>
+    <path fill="#627261" d="M300 254c-5 40-40 62-46 95-7 37 22 55 66 55s73-18 66-55c-6-33-41-55-46-95z"/>
+    <path fill="url(#nose)" d="M299 245c-1 43-34 69-39 96-5 28 21 42 60 42s65-14 60-42c-5-27-38-53-39-96z"/>
+    <path fill="#cad0b9" opacity=".62" d="M305 265c-4 29-18 45-27 63 10-7 32-12 47-13-10-13-10-38-20-50z"/>
+    <path fill="#657260" d="M269 357c10-11 19-9 25-1-7 5-17 6-25 1zm102 0c-10-11-19-9-25-1 7 5 17 6 25 1z"/>
+    <path fill="#abb49d" d="M224 387c12 42 48 64 96 64s84-22 96-64l-7 68-34 47h-110l-34-47z"/>
+    <path fill="#bdc2ad" d="m271 472 11 22 18-11 20 20 20-20 18 11 11-22-49 11z"/>
+    <path fill="none" stroke="#4b5c49" stroke-width="8" stroke-linecap="round" d="M248 413c24 6 48 9 72 9s48-3 72-9"/>
+    <path fill="none" stroke="#cad0b9" stroke-opacity=".45" stroke-width="3" stroke-linecap="round" d="M275 435h90"/>
+    <path fill="none" stroke="#576854" stroke-width="4" stroke-linecap="round" d="m168 346 20 7m284-7-20 7m-243 23 6 18m210-18-6 18m-6-220-11 13 5 12m-213-18-9 10 4 16m-30 221 14 11-2 13m288-29-13 14 3 14"/>
+    <path fill="none" stroke="#9da78f" stroke-opacity=".55" stroke-width="2" stroke-linecap="round" d="m169 359 8 4m276-4-8 4m-232-160 7-4m163 31 5-5m-182 114 11 5m159 20 7-5m-119 105 12 4"/>
+    <path fill="none" stroke="#917d52" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="m129 597 29-43 27 21-21 24m347-2-29-43-27 21 21 24"/>
+    <circle cx="320" cy="554" r="22" fill="#9a7c46"/><circle cx="320" cy="554" r="15" fill="#c9a361"/>
+    <path fill="none" stroke="#625338" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="m314 550 6-8 6 8-6 15-6-15 12 0"/>
+    <g transform="translate(542 179)"><path fill="none" stroke="#b7985e" stroke-width="4" d="M-14 1c0-18 28-18 28 0"/><path fill="#a58952" d="m-19 0 38 0 8 43-54 0z"/><path fill="#f3c375" d="m-11 7 22 0 5 26-32 0z"/><path fill="#fff0b4" d="m-3 14 6 0 3 13-12 0z"/><path fill="#bd9b5b" d="m-28 40 56 0v7h-56z"/></g>
+  </g>
+  <circle cx="320" cy="320" r="312" fill="none" stroke="#acb791" stroke-width="6"/>
+</svg>
